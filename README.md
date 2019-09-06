@@ -7,7 +7,7 @@ Copy `BitFieldAttribute.cs` and the Editor folder containing `BitFieldAttributeD
 
 ### Usage
 
-Decorate an enumeration with the `[BitField]` attribute.
+Decorate your enumeration with the `[BitField]` attribute.
 
 *Examples:*
 
