@@ -44,16 +44,16 @@ Decorate an enumeration with the `[BitField]` attribute.
       FLAG_4 = 0x8
     }
 
-    [Bitfield]
+    [BitField]
     public FlagsEnum FlagsField;
 
-    [Bitfield]
+    [BitField]
     public SByteEnum SByteField;
 
-    [Bitfield]
+    [BitField]
     public ShortEnum ShortField;
 
-    [Bitfield]
+    [BitField]
     public Int32Enum Int32Field;
     
 
