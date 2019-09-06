@@ -7,7 +7,7 @@ Copy `BitFieldAttribute.cs` and the Editor folder containing `BitFieldAttributeD
 
 ### Usage
 
-Decorate your enumeration with the `[BitField]` attribute.
+Decorate your enumeration fields with the `[BitField]` attribute.
 
 *Examples:*
 
@@ -61,7 +61,7 @@ Decorate your enumeration with the `[BitField]` attribute.
 
 Underlying types of unsigned integers or integers greater than 32bit are not support by the Unity Editor.
 
-Field values are:
+The fixed flag values are:
 * Nothing = 0
 * Everything = -1
 
