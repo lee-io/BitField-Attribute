@@ -65,5 +65,5 @@ Field values are:
 * Nothing = 0
 * Everything = -1
 
-## Preview
+### Preview
 ![picture alt](https://raw.githubusercontent.com/lee-io/Bitmask-Attribute/master/preview.png)
