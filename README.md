@@ -1,5 +1,5 @@
 # BitField Attribute #
-Enables bit field masking from the Unity Inspector.
+Enables bit field masking from the Inspector.
 
 ### Installation
 
